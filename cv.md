@@ -19,3 +19,16 @@
 1. **Experience**
 
 - _Front-End Developer Freelance: Year 2019 - up to now | Ukraine_\
+
+1. **Education**
+
+- _Petro Mohyla Black Sea State University: Environmental protection, Master of Ecology 2006 | Ukraine_
+- _PeaPod IT School: Front-End + WordPress 2020 | Ukraine_
+- _Online course Udemi HTML, CSS, JS 2020 | Ukraine_
+- _Course Java Core 2017 | Ukraine_\
+
+1. **Languages**
+
+- _Ukrainian, Russian - mother tongue_
+- _English - elementary_
+- _German - intermediate+_\
