@@ -32,3 +32,9 @@
 - _Ukrainian, Russian - mother tongue_
 - _English - elementary_
 - _German - intermediate+_\
+
+1. **Portfolio**
+
+- https://mikitheartist.github.io/design_and_develop.github.io/.
+- https://mikitheartist.github.io/silon.github.io/
+- https://mikitheartist.github.io/walking_with_diana.github.io/
