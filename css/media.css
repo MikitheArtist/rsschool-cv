@@ -1,0 +1,128 @@
+@media (max-width: 599px) {
+  .sidebar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+}
+
+@media (min-width: 600px) {
+  .wrapper {
+    display: flex;
+  }
+
+  .contacts {
+    margin-top: 60px;
+  }
+
+  .tech-scills-container {
+    margin-top: 50px;
+  }
+
+}
+
+@media (min-width: 600px) and (max-width: 1169px) {
+
+  .container {
+    width: 600px;
+  }
+
+  .sidebar {
+    width: 270px;
+  }
+
+  .wrapper-photo {
+    min-width: 270px;
+  }
+
+  .about-me-container {
+    width: 300px;
+  }
+
+  .contacts {
+    margin-left: 13px;
+  }
+
+  .contacts-title {
+    line-height: 34px;
+  }
+
+  .contacts-link {
+    line-height: 34px;
+  }
+
+  .contacts-link-type {
+    line-height: 34px;
+  }
+
+
+  .tech-scills-title {
+    line-height: 34px;
+  }
+
+  .tech-scills-item {
+    line-height: 34px;
+  }
+
+
+}
+
+@media (min-width: 1170px) {
+  .container {
+    width: 1170px;
+  }
+
+  .sidebar {
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .wrapper-photo {
+    min-width: 370px;
+    height: 600px;
+  }
+
+  .contacts {
+    margin-left: 40px;
+  }
+
+
+  .contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+  }
+
+  .contacts-link-type {
+    font-weight: 700;
+  }
+
+  .tech-scills-container {
+    margin-left: 40px;
+  }
+
+  .tech-scills-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  .about-me-container {
+    padding: 90px 100px;
+  }
+
+  .box-container {
+    margin-bottom: 50px;
+  }
+
+  .name {
+    margin-top: 23px;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+  }
+
+  .profession-duties {
+    margin-bottom: 30px;
+  }
+}

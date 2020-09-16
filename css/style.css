@@ -1,0 +1,219 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f1f3f1;
+
+}
+
+.container {
+  padding: 15px;
+  width: 320px;
+  margin: 0 auto;
+  background-color: #f0f7f0;
+}
+
+.wrapper {
+  background-color: #fff;
+}
+
+.sidebar {
+  background-color: #638866;
+}
+
+.wrapper-photo {
+  width: 100%;
+  /* Ширина области */
+  height: 290px;
+  /* Высота области */
+  margin: 0;
+  /* Обнуляем отступы */
+  overflow: hidden;
+  /* Прячем всё за пределами */
+  min-width: 290px;
+}
+
+.my-photo {
+  width: 100%;
+}
+
+.contacts {
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+.contacts-title {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #e2e4e6;
+  text-decoration: none;
+}
+
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.tech-scills-title {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.tech-scills-container {
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.tech-scills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+
+.tech-scills-text {
+  color: #dbdddf;
+}
+
+
+.box-container {
+  margin-bottom: 20px;
+}
+
+.about-me-title {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+/* about_me_main_info */
+.about-me-container {
+  padding: 20px 10px;
+}
+
+.profession {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+
+}
+
+.name {
+  margin-top: 13px;
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.description {
+  text-align: justify;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  margin-top: 20px;
+}
+
+/* portfolio */
+
+
+.projects-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+  white-space: nowrap;
+  /* Запрещаем перенос строк */
+  overflow: hidden;
+  /* Обрезаем все, что не помещается в область */
+  text-overflow: ellipsis;
+  /* Добавляем многоточие */
+  /* Не обязательно, но может понадобиться. Например, для ссылок */
+  display: block;
+}
+
+.tech-name {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.projects-item {
+  font-weight: 700;
+  margin-left: 17px;
+}
+
+/* experience */
+
+.profession-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.profession-company {
+  color: #ff7a21;
+}
+
+.profession-time {
+  color: #595959;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.profession-divider {
+  color: #000;
+}
+
+.profession-duties {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.profession-duties-item {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 17px;
+}
+
+/* education */
+.education-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 15px;
+  color: #ff7a21;
+}
